@@ -16,15 +16,15 @@
     "absen": []
   },
   "users": {
-    "6285609233482@s.whatsapp.net": {
+    "62895321033713@s.whatsapp.net": {
       "afkTime": -1,
       "banned": false,
       "afkReason": "",
-      "limit": 70,
-      "money": 0,
-      "exp": 0,
+      "limit": 999999999999999999999,
+      "money": 999999999999999999999,
+      "exp": 99999999999999999999999,
       "autolevelup": true,
-      "level": 0,
+      "level": 999999999999999999999,
       "role": "Warrior",
       "healt": 100,
       "gold": 0,
